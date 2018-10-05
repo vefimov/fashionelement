@@ -1,0 +1,23 @@
+{
+  "name": "fashionelement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vefimov/fashionelement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vefimov/fashionelement/issues"
+  },
+  "homepage": "https://github.com/vefimov/fashionelement#readme",
+  "devDependencies": {
+    "request": "2.88.0",
+    "request-promise": "4.2.2"
+  }
+}
